@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/529ecdb57ced454098ccc0b69101ca79/artifacts
+end_time: 1773317971172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529ecdb57ced454098ccc0b69101ca79
+run_name: treasured-tern-780
+run_uuid: 529ecdb57ced454098ccc0b69101ca79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773317970814
+status: 3
+tags: []
+user_id: raman

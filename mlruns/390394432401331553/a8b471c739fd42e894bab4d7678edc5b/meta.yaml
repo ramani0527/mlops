@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/390394432401331553/a8b471c739fd42e894bab4d7678edc5b/artifacts
+end_time: 1773375558843
+entry_point_name: ''
+experiment_id: '390394432401331553'
+lifecycle_stage: active
+run_id: a8b471c739fd42e894bab4d7678edc5b
+run_name: able-foal-322
+run_uuid: a8b471c739fd42e894bab4d7678edc5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773375544135
+status: 3
+tags: []
+user_id: raman

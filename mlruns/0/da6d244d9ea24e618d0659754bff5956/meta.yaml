@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/da6d244d9ea24e618d0659754bff5956/artifacts
+end_time: 1773317222917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da6d244d9ea24e618d0659754bff5956
+run_name: fun-shrew-804
+run_uuid: da6d244d9ea24e618d0659754bff5956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773317222550
+status: 3
+tags: []
+user_id: raman

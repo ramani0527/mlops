@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/390394432401331553/c7e849fdb59d4222aae1f566b3eeaf32/artifacts
+deleted_time: 1773375589087
+end_time: 1773375498439
+entry_point_name: ''
+experiment_id: '390394432401331553'
+lifecycle_stage: deleted
+run_id: c7e849fdb59d4222aae1f566b3eeaf32
+run_name: adorable-perch-962
+run_uuid: c7e849fdb59d4222aae1f566b3eeaf32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773375497174
+status: 4
+tags: []
+user_id: raman
