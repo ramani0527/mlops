@@ -7,6 +7,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 import dagshub
+
 dagshub.init(repo_owner='ramani0527', repo_name='mlops', mlflow=True)
 mlflow.set_tracking_uri("https://dagshub.com/ramani0527/mlops.mlflow")
 """To rectify the error - The configured tracking 
@@ -25,6 +26,8 @@ max_d = 7
 n_esti = 2
 #Mention your experiment below or 
 # a new experiment can be created automatically on this window by simply giving the above code line
+# Add this line to have autolog functionality
+mlflow.autolog()
 mlflow.set_experiment("YT-MLOPS-exp-MrX")
 
 # you can created another experiment and send it as parameter in the start_run  
@@ -36,9 +39,10 @@ with mlflow.start_run():
     y_pred = rf.predict(X_test)
     accuracy= accuracy_score(y_pred,y_test)
     
-    mlflow.log_param("max_depth",max_d)
+    #log params using mlflow is not needed in autolog
+    '''mlflow.log_param("max_depth",max_d)
     mlflow.log_param("n_estimators",n_esti)
-    mlflow.log_metric('accuracy', accuracy)
+    mlflow.log_metric('accuracy', accuracy)'''
     
 
 
@@ -53,14 +57,14 @@ with mlflow.start_run():
     #save.plot
     plt.savefig("Wine_Confusion_Matrix.png")
     
-    #log actifacts using mlflow
-    mlflow.log_artifact("Wine_Confusion_Matrix.png") 
+    #log actifacts using mlflow is not needed
+    ##  mlflow.log_artifact("Wine_Confusion_Matrix.png")  file has to be there
     mlflow.log_artifact(__file__)
     
     #tags adding
     mlflow.set_tags({"Brand":"GM","year":2019})
     
-    #log the model
-    mlflow.sklearn.log_model(rf, "Random-Forest-model")
+    #log the model is not needed 
+    #mlflow.sklearn.log_model(rf, "Random-Forest-model")
     
     print('accuracy',accuracy)
