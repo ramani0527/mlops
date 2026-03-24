@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/fc30d0c13e0042f395e404e6b37d8a75/artifacts
+end_time: 1774371120708
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: fc30d0c13e0042f395e404e6b37d8a75
+run_name: youthful-swan-304
+run_uuid: fc30d0c13e0042f395e404e6b37d8a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120655
+status: 3
+tags: []
+user_id: raman

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/8824c0c1e9a34708b921d3bfc3953aef/artifacts
+end_time: 1774372147257
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 8824c0c1e9a34708b921d3bfc3953aef
+run_name: rumbling-steed-42
+run_uuid: 8824c0c1e9a34708b921d3bfc3953aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372147208
+status: 3
+tags: []
+user_id: raman

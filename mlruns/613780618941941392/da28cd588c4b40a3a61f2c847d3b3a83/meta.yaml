@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/da28cd588c4b40a3a61f2c847d3b3a83/artifacts
+end_time: 1774372147494
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: da28cd588c4b40a3a61f2c847d3b3a83
+run_name: chill-mink-620
+run_uuid: da28cd588c4b40a3a61f2c847d3b3a83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372147440
+status: 3
+tags: []
+user_id: raman

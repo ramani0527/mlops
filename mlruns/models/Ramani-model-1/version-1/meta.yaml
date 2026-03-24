@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1774378362432
+current_stage: None
+description: ''
+last_updated_timestamp: 1774378362432
+name: Ramani-model-1
+run_id: 30b67406985643d3ab283d30d2481b60
+run_link: ''
+source: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/30b67406985643d3ab283d30d2481b60/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/30b67406985643d3ab283d30d2481b60/artifacts/random_forest
+user_id: null
+version: 1

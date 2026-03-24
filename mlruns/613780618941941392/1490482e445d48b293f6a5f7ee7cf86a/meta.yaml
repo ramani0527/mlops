@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/1490482e445d48b293f6a5f7ee7cf86a/artifacts
+end_time: 1774372147203
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 1490482e445d48b293f6a5f7ee7cf86a
+run_name: polite-lamb-595
+run_uuid: 1490482e445d48b293f6a5f7ee7cf86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372147153
+status: 3
+tags: []
+user_id: raman

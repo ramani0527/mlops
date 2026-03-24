@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/daede2b773004eba9a3b28b6ab4ac989/artifacts
+end_time: 1774372147147
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: daede2b773004eba9a3b28b6ab4ac989
+run_name: bedecked-snake-492
+run_uuid: daede2b773004eba9a3b28b6ab4ac989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372147094
+status: 3
+tags: []
+user_id: raman

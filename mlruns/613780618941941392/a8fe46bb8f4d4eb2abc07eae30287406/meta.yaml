@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/a8fe46bb8f4d4eb2abc07eae30287406/artifacts
+end_time: 1774372146978
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: a8fe46bb8f4d4eb2abc07eae30287406
+run_name: exultant-dog-400
+run_uuid: a8fe46bb8f4d4eb2abc07eae30287406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372146926
+status: 3
+tags: []
+user_id: raman

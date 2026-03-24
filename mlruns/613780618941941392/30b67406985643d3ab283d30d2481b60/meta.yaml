@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/30b67406985643d3ab283d30d2481b60/artifacts
+end_time: 1774372152442
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 30b67406985643d3ab283d30d2481b60
+run_name: intelligent-jay-725
+run_uuid: 30b67406985643d3ab283d30d2481b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372142983
+status: 3
+tags: []
+user_id: raman

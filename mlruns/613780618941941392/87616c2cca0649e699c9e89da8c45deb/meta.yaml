@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/87616c2cca0649e699c9e89da8c45deb/artifacts
+end_time: 1774371120478
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 87616c2cca0649e699c9e89da8c45deb
+run_name: lyrical-steed-972
+run_uuid: 87616c2cca0649e699c9e89da8c45deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120427
+status: 3
+tags: []
+user_id: raman

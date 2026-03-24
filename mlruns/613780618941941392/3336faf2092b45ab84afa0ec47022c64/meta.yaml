@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/3336faf2092b45ab84afa0ec47022c64/artifacts
+end_time: 1774372147315
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 3336faf2092b45ab84afa0ec47022c64
+run_name: auspicious-whale-191
+run_uuid: 3336faf2092b45ab84afa0ec47022c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372147264
+status: 3
+tags: []
+user_id: raman

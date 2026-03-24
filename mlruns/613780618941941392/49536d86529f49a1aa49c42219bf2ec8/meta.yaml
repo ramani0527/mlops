@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/49536d86529f49a1aa49c42219bf2ec8/artifacts
+end_time: 1774371120826
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 49536d86529f49a1aa49c42219bf2ec8
+run_name: judicious-asp-111
+run_uuid: 49536d86529f49a1aa49c42219bf2ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120770
+status: 3
+tags: []
+user_id: raman

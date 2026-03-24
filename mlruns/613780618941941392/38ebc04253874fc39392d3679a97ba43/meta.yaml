@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/38ebc04253874fc39392d3679a97ba43/artifacts
+end_time: 1774371120650
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 38ebc04253874fc39392d3679a97ba43
+run_name: intelligent-hawk-530
+run_uuid: 38ebc04253874fc39392d3679a97ba43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120598
+status: 3
+tags: []
+user_id: raman

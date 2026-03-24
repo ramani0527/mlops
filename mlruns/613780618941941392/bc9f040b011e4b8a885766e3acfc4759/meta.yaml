@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/bc9f040b011e4b8a885766e3acfc4759/artifacts
+end_time: 1774371126804
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: bc9f040b011e4b8a885766e3acfc4759
+run_name: bemused-sow-382
+run_uuid: bc9f040b011e4b8a885766e3acfc4759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371119470
+status: 3
+tags: []
+user_id: raman

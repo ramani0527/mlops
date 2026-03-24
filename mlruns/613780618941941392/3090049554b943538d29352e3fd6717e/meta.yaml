@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/3090049554b943538d29352e3fd6717e/artifacts
+end_time: 1774371120885
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 3090049554b943538d29352e3fd6717e
+run_name: likeable-rat-287
+run_uuid: 3090049554b943538d29352e3fd6717e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120832
+status: 3
+tags: []
+user_id: raman

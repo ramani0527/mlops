@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/27513ea407d84f839af5a42423035533/artifacts
+end_time: 1774371120945
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 27513ea407d84f839af5a42423035533
+run_name: thoughtful-asp-454
+run_uuid: 27513ea407d84f839af5a42423035533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120890
+status: 3
+tags: []
+user_id: raman

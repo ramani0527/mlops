@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/9ad5979ecc3448eb8e8e8ef1a048840c/artifacts
+end_time: 1774372147376
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 9ad5979ecc3448eb8e8e8ef1a048840c
+run_name: sneaky-ram-166
+run_uuid: 9ad5979ecc3448eb8e8e8ef1a048840c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372147315
+status: 3
+tags: []
+user_id: raman

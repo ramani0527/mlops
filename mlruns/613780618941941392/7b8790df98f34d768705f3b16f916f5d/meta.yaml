@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/7b8790df98f34d768705f3b16f916f5d/artifacts
+end_time: 1774371120537
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 7b8790df98f34d768705f3b16f916f5d
+run_name: carefree-cat-352
+run_uuid: 7b8790df98f34d768705f3b16f916f5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120483
+status: 3
+tags: []
+user_id: raman

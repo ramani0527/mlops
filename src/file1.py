@@ -32,6 +32,7 @@ with mlflow.start_run():
     
     y_pred = rf.predict(X_test)
     accuracy= accuracy_score(y_pred,y_test)
+    #F1score = F1score(y_pred,y_test)
     
     mlflow.log_param("max_depth",max_depth)
     mlflow.log_param("n_estimators",n_estimators)

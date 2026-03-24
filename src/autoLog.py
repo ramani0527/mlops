@@ -62,7 +62,7 @@ with mlflow.start_run():
     mlflow.log_artifact(__file__)
     
     #tags adding
-    mlflow.set_tags({"Brand":"GM","year":2019})
+    mlflow.set_tags({"Brand":"GM","year":2020})
     
     #log the model is not needed 
     #mlflow.sklearn.log_model(rf, "Random-Forest-model")

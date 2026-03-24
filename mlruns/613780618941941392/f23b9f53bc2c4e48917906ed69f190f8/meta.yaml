@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/f23b9f53bc2c4e48917906ed69f190f8/artifacts
+end_time: 1774372147030
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: f23b9f53bc2c4e48917906ed69f190f8
+run_name: nervous-mouse-465
+run_uuid: f23b9f53bc2c4e48917906ed69f190f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372146982
+status: 3
+tags: []
+user_id: raman

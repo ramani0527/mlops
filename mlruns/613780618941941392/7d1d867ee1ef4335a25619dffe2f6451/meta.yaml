@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/7d1d867ee1ef4335a25619dffe2f6451/artifacts
+end_time: 1774371120765
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 7d1d867ee1ef4335a25619dffe2f6451
+run_name: valuable-turtle-62
+run_uuid: 7d1d867ee1ef4335a25619dffe2f6451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120712
+status: 3
+tags: []
+user_id: raman

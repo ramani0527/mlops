@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392
+creation_time: 1774371118713
+experiment_id: '613780618941941392'
+last_update_time: 1774371118713
+lifecycle_stage: active
+name: breast-cancer-rf-hp

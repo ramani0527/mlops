@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/55c498b565b64f9eb480a53df08c3081/artifacts
+end_time: 1774371120314
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: 55c498b565b64f9eb480a53df08c3081
+run_name: masked-moth-758
+run_uuid: 55c498b565b64f9eb480a53df08c3081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774371120253
+status: 3
+tags: []
+user_id: raman

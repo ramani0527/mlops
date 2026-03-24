@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raman/OneDrive/Documents/mlops/mlruns/613780618941941392/dc87de7fd2234cdaadc65d3edb03b412/artifacts
+end_time: 1774372147549
+entry_point_name: ''
+experiment_id: '613780618941941392'
+lifecycle_stage: active
+run_id: dc87de7fd2234cdaadc65d3edb03b412
+run_name: placid-fawn-250
+run_uuid: dc87de7fd2234cdaadc65d3edb03b412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774372147499
+status: 3
+tags: []
+user_id: raman
