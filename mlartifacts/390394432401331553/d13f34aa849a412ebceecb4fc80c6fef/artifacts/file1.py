@@ -18,8 +18,8 @@ y= wine.target
 X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.10, random_state = 42)
 
 # Define the params for ml model
-max_depth = 10
-n_estimators = 5
+max_d = 10
+n_esti = 5
 #Mention your experiment below or 
 # a new experiment can be created automatically on this window by simply giving the above code line
 mlflow.set_experiment("YT-MLOPS-exp-1")
@@ -27,14 +27,14 @@ mlflow.set_experiment("YT-MLOPS-exp-1")
 # you can created another experiment and send it as parameter in the start_run  
 # First run 
 with mlflow.start_run():
-    rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state = 42)
+    rf = RandomForestClassifier(max_depth=max_d, n_estimators=n_esti, random_state = 42)
     rf.fit(X_train,y_train)
     
     y_pred = rf.predict(X_test)
     accuracy= accuracy_score(y_pred,y_test)
     
-    mlflow.log_param("max_depth",max_depth)
-    mlflow.log_param("n_estimators",n_estimators)
+    mlflow.log_param("max_depth",max_d)
+    mlflow.log_param("n_estimators",n_esti)
     mlflow.log_metric('accuracy', accuracy)
     
 
